@@ -1,4 +1,4 @@
-# GTRI: IT Web Management Application
+# Red Pepper
 ## Installation
 ### Pre-requisites
 - PHP 8.1.10
